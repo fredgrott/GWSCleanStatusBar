@@ -3,4 +3,19 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="android_l_status_bar">#ffcbcbcb</color>
+    <color name="android_kitkat_status_bar_default">#ffbfbfbf</color>
+    <color name="android_kitkat_status_bar_gradient">#ffffffff</color>
+    <color name="android_jellybean_status_bar">#ff33b5e5</color>
+
+    <color name="battery_fill_light_grey">#fecbcbcb</color>
+    <color name="batterymeter_frame_color">#66FFFFFF</color>
+    <color name="batterymeter_charge_color">#cbcbcb</color>
+
+    <color name="black">#000000</color>
+
+    <color name="float_label_normal">#8833B5E5</color>
+    <color name="float_label_activated">#33B5E5</color>
+
 </resources>

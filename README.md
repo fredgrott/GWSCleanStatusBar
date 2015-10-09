@@ -21,6 +21,8 @@ Credits
 
 [Emma Guy Clean Status Bar]()
 
+[Chris Banes FloatLabelLayout]()
+
 Fred Grott(aka shareme  GrottWorkShop)
 
 Former JavaME and JavaEE developer that made the transition to Android Native java Application Development.

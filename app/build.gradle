@@ -148,6 +148,8 @@ dependencies {
     androidTestCompile(rootProject.ext.instrumentedTestDependencies.assertjAppCompat){
         exclude group: 'com.android.support'
     }
+    compile 'com.google.code.gson:gson:2.3'
+
 
 }
 //uncomment to enable
