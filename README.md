@@ -7,7 +7,8 @@ get screen shots of on a device.
 Usage
 ======
 
-Clone repo and do run app on the IDe run menu
+Look in releases and download the zip and the apk file to use is in
+release_apk folder.
 
 
 Target Android API Range
